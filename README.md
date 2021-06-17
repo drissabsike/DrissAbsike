@@ -26,5 +26,5 @@
 <img align="left" alt=".NET" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="Java" width="35px" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" />
 <img align="left" alt="PHP" width="35px" src="https://img.icons8.com/ios/452/php-server.png" />
-<img align="left" alt="Power BI" height="20px" width="50px" src="https://img.icons8.com/color/452/power-bi.png" />
+<img align="left" alt="Power BI" height="40px" width="50px" src="https://img.icons8.com/color/452/power-bi.png" />
 
