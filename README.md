@@ -9,7 +9,7 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" width="50px" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/knowislam77)
 
 ### Connect with me:
-<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="25px" width="250" /> Email & Outlook : absike30@gmail.com  &  idriss.absike@hightech.edu
+<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="25px" width="250" /> Email : absike30@gmail.com
 <br />
 
 ### Languages and Tools and Frameworks:
