@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Idriss - aka Full Stack Software Engineer 
+### Hi there 👋, My name is Driss - aka Full Stack Software Engineer 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
