@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Driss - aka RingoBot, Full Stack JAVA/Spring Boot/Microservices/Angular & Graphic Designer software engineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Video Games and watch Movies and play sport
 
 ### Soundcloud Playing 🎧
